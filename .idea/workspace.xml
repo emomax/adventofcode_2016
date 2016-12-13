@@ -19,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TaskA.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december6/TaskA.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -28,6 +28,18 @@
                 <element signature="imports" expanded="true" />
                 <element signature="e#1942#1943#0" expanded="true" />
                 <element signature="e#1985#1986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TaskA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/TaskA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TaskB.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-391">
@@ -70,8 +82,8 @@
       <file leaf-file-name="TaskA.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+            <state relative-caret-position="527">
+              <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -113,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/se/maxjonsson/Runner.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december6/TaskB.java" />
         <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december6/TaskA.java" />
+        <option value="$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskA.java" />
       </list>
     </option>
   </component>
@@ -708,16 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-271">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/TaskB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
@@ -725,22 +728,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,6 +760,32 @@
             <element signature="e#1942#1943#0" expanded="true" />
             <element signature="e#1985#1986#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december5/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="43" column="35" lean-forward="false" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/se/maxjonsson/days/december4/TaskB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

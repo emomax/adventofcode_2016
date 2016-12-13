@@ -2,6 +2,7 @@ package se.maxjonsson.days.december4;
 
 import se.maxjonsson.Task;
 import se.maxjonsson.utils.FileReader;
+import se.maxjonsson.utils.MutableInt;
 import se.maxjonsson.utils.Regex;
 
 import java.util.*;
@@ -10,23 +11,6 @@ import java.util.stream.Collectors;
 
 public class TaskA implements Task {
     private final static String ROOM_REGEX = "^(?<encryptedRoomName>[a-z\\-]*)(?<roomID>\\d{1,4})\\[(?<checksum>[a-z]{5})\\]$";
-
-    class MutableInt {
-        int count = 1; // note that we start at 1 since we're counting
-
-        public void increment() {
-            ++count;
-        }
-
-        public int get() {
-            return count;
-        }
-
-        @Override
-        public String toString() {
-            return Integer.toString(count);
-        }
-    }
 
     @Override
     public void run() {

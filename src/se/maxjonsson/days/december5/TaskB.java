@@ -55,7 +55,7 @@ public class TaskB implements Task {
     }
 
     @Override
-    public String getTaskName() {
-        return "December 5, task 1";
+    public String getTaskName(){
+        return "December 5, task 2";
     }
 }

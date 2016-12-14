@@ -2,6 +2,7 @@ package se.maxjonsson;
 
 import se.maxjonsson.days.december1.TaskA;
 import se.maxjonsson.days.december1.TaskB;
+import se.maxjonsson.days.december8.TaskAB;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,7 +24,7 @@ public class Runner {
         tasks.add(new se.maxjonsson.days.december4.TaskA());
         tasks.add(new se.maxjonsson.days.december4.TaskB());
 
-        //tasks.add(new se.maxjonsson.days.december5.TaskA());
+        //tasks.add(new se.maxjonsson.days.december5.TaskAB());
         //tasks.add(new se.maxjonsson.days.december5.TaskB());
 
         tasks.add(new se.maxjonsson.days.december6.TaskA());
@@ -31,6 +32,8 @@ public class Runner {
 
         tasks.add(new se.maxjonsson.days.december7.TaskA());
         tasks.add(new se.maxjonsson.days.december7.TaskB());
+
+        tasks.add(new TaskAB());
     }
 
 

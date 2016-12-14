@@ -98,9 +98,4 @@ public class TaskB implements Task {
     public String getTaskName() {
         return "December 7, task 2";
     }
-
-    public static void main(String... args) {
-        TaskB test = new TaskB();
-        test.run();
-    }
 }

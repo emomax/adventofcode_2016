@@ -34,6 +34,9 @@ public class Runner {
         tasks.add(new se.maxjonsson.days.december7.TaskB());
 
         tasks.add(new TaskAB());
+
+        tasks.add(new se.maxjonsson.days.december10.TaskA());
+        tasks.add(new se.maxjonsson.days.december10.TaskB());
     }
 
 

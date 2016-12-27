@@ -125,6 +125,6 @@ public class TaskAB implements Task {
 
     @Override
     public String getTaskName() {
-        return "December 7, task 1 & 2";
+        return "December 8, task 1 & 2";
     }
 }
